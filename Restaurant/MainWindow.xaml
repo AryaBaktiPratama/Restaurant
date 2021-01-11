@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Restaurant"
         mc:Ignorable="d"
-        Title="MainWindow" Height="476" Width="800">
+        Title="MainWindow" Height="476" Width="800" Background="#E76F51" >
     <Grid>
         <Rectangle HorizontalAlignment="Left" Margin="47,59,0,18" Stroke="Black" Fill="#F4A261" Width="498"/>
         <Rectangle HorizontalAlignment="Left" Height="154" Margin="572,59,0,0" Stroke="Black" Fill="#F4A261" VerticalAlignment="Top" Width="178"/>
