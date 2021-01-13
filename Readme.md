@@ -1,4 +1,8 @@
-﻿# Restaurant
+﻿## Nama : Arya Bakti Pratama
+## NIM  : 19.11.2837
+
+
+# Restaurant
 Aplikasi sederhana sesuai studi kasus yang diberikan dosen untuk memenuhi tugas UAS. Aplikasi ini berfungsi untuk simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
 ## Scope and Functionalities
 - User dapat melihat daftar makanan yang ditawarkan
@@ -71,3 +75,5 @@ public MainWindow()
         }
 ```
 selain itu juga dibuatkan 2 baris kode untuk memasukkan data list item dan voucher ke masing - masing listbox. Selain pembuatan instance juga terdapat beberapa operasi yang dilakukan.
+
+## Screnshoot
