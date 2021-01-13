@@ -12,6 +12,8 @@ Aplikasi sederhana sesuai studi kasus yang diberikan dosen untuk memenuhi tugas 
 - User dapat menggunakan salah satu voucher
 - User dapat melihat harga total termasuk potongannya
 ## How Does it works?
+- ### Class Diagram :
+![](Restaurant/Image/Diagram.jpg)
 1. Apa saja model yang digunakan pada project ini?
     saya membuat 4 model yaitu model item untuk makanan atau minuman, model keranjangBelanja untuk menaruh pembelian, model payment untuk mengurusi total harga beli, dan model Voucher untuk daftar vouchernya.
 2. Apa fungsi MainWindowController.cs?
@@ -76,4 +78,9 @@ public MainWindow()
 ```
 selain itu juga dibuatkan 2 baris kode untuk memasukkan data list item dan voucher ke masing - masing listbox. Selain pembuatan instance juga terdapat beberapa operasi yang dilakukan.
 
-## Screnshoot
+## Running Aps :
+![](Restaurant/Image/Running.jpg)
+## Demo Aps :
+![](Restaurant/Image/Simulasi%201.jpg)
+![](Restaurant/Image/Simulasi%202.jpg)
+![](Restaurant/Image/Simulasi%203.jpg)
